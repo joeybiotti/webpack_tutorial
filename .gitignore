@@ -1,0 +1,5 @@
+.DS_Store
+app.js
+bundle.js
+people.js
+node_modules/
